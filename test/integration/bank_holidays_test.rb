@@ -168,32 +168,6 @@ class BankHolidaysTest < ActionDispatch::IntegrationTest
     end # Timecop
   end
 
-  context "showing bunting on bank holidays" do
-    should "show bunting when today is a buntable bank holiday" do
-      Timecop.travel(Date.parse("2nd Jan 2012")) do
-        visit "/bank-holidays"
-        assert page.has_css?('.epic-bunting')
-        assert page.has_css?('#wrapper.bunted')
-      end
-    end
-
-    should "not show bunting if today is a non-buntable bank holiday" do
-      Timecop.travel(Date.parse("12th July 2013")) do
-        visit "/bank-holidays"
-        assert page.has_no_css?('.epic-bunting')
-        assert page.has_no_css?('#wrapper.bunted')
-      end
-    end
-
-    should "not show bunting when today is not a bank holiday" do
-      Timecop.travel(Date.parse("3rd Feb 2012")) do
-        visit "/bank-holidays"
-        assert page.has_no_css?('.epic-bunting')
-        assert page.has_no_css?('#wrapper.bunted')
-      end
-    end
-  end # within #content
-
   context "last updated" do
     should "be formatted correctly" do
       Timecop.travel(Date.parse("5th Dec 2012")) do

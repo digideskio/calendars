@@ -65,12 +65,11 @@ class BankHolidayGenerator
 
 private
 
-  def add_bank_holiday(title, date, substitute=false, bunting=true)
+  def add_bank_holiday(title, date, substitute=false)
     bank_holiday_hash = {
         "title"   => title,
         "date"    => date.strftime("%d/%m/%Y"),
         "notes"   => "",
-        "bunting" => bunting,
     }
     if substitute
       bank_holiday_hash.merge!(

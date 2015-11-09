@@ -10,256 +10,215 @@
                 {
                     "title": "Dydd Calan",
                     "date": "02/01/2012",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "06/04/2012",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "09/04/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "07/05/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "04/06/2012",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Jiwbilî Diemwnt y Frenhines",
                     "date": "05/06/2012",
-                    "notes": "Gŵyl Banc ychwanegol",
-                    "bunting": true
+                    "notes": "Gŵyl Banc ychwanegol"
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "27/08/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2013": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "29/03/2013",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "01/04/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "06/05/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "27/05/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "26/08/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2014": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "18/04/2014",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "21/04/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "05/05/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "26/05/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "25/08/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2015": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "03/04/2015",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "06/04/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "04/05/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "25/05/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "31/08/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "28/12/2015",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 }
             ],
             "2016": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "25/03/2016",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "28/03/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "02/05/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "30/05/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "29/08/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "27/12/2016",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 }
             ]
         },
@@ -269,286 +228,240 @@
                 {
                     "title": "2il Ionawr",
                     "date": "02/01/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Calan",
                     "date": "03/01/2012",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "06/04/2012",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "07/05/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "04/06/2012",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Jiwbilî Diemwnt y Frenhines",
                     "date": "05/06/2012",
-                    "notes": "Gŵyl Banc ychwanegol",
-                    "bunting": true
+                    "notes": "Gŵyl Banc ychwanegol"
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "06/08/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Andreas",
                     "date": "30/11/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2013": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "2il Ionawr",
                     "date": "02/01/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "29/03/2013",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "06/05/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "27/05/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "05/08/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Andreas",
                     "date": "02/12/2013",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2014": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "2il Ionawr",
                     "date": "02/01/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "18/04/2014",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "05/05/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "26/05/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "04/08/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Andreas",
                     "date": "01/12/2014",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2015": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "2il Ionawr",
                     "date": "02/01/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "03/04/2015",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "04/05/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "25/05/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "03/08/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Andreas",
                     "date": "30/11/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "28/12/2015",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 }
             ],
             "2016": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "2il Ionawr",
                     "date": "04/01/2016",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "25/03/2016",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "02/05/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "30/05/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "01/08/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Andreas",
                     "date": "30/11/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "27/12/2016",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 }
             ]
         },
@@ -558,316 +471,265 @@
                 {
                     "title": "Dydd Calan",
                     "date": "02/01/2012",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Gŵyl San Padrig",
                     "date": "19/03/2012",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "06/04/2012",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "09/04/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "07/05/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "04/06/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Jiwbilî Diemwnt y Frenhines",
                     "date": "05/06/2012",
-                    "notes": "Gŵyl Banc ychwanegol",
-                    "bunting": true
+                    "notes": "Gŵyl Banc ychwanegol"
                 },
                 {
                     "title": "Brwydr y Boyne (Diwrnod yr Orangemen)",
                     "date": "12/07/2012",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "27/08/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2012",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2013": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Padrig",
                     "date": "18/03/2013",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "29/03/2013",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "01/04/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "06/05/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "27/05/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Brwydr y Boyne (Diwrnod yr Orangemen)",
                     "date": "12/07/2013",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "26/08/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2013",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2014": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Padrig",
                     "date": "17/03/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "18/04/2014",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "21/04/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "05/05/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "26/05/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Brwydr y Boyne (Diwrnod yr Orangemen)",
                     "date": "14/07/2014",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": false
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "25/08/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2014",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 }
             ],
             "2015": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Padrig",
                     "date": "17/03/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "03/04/2015",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "06/04/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "04/05/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "25/05/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Brwydr y Boyne (Diwrnod yr Orangemen)",
                     "date": "13/07/2015",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": false
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "31/08/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "25/12/2015",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "28/12/2015",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 }
             ],
             "2016": [
                 {
                     "title": "Dydd Calan",
                     "date": "01/01/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Padrig",
                     "date": "17/03/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Gwener y Groglith",
                     "date": "25/03/2016",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Llun y Pasg",
                     "date": "28/03/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc Cyntaf Mai",
                     "date": "02/05/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc y Gwanwyn",
                     "date": "30/05/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Brwydr y Boyne (Diwrnod yr Orangemen)",
                     "date": "12/07/2016",
-                    "notes": "",
-                    "bunting": false
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl Banc yr Haf",
                     "date": "29/08/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Gŵyl San Steffan",
                     "date": "26/12/2016",
-                    "notes": "",
-                    "bunting": true
+                    "notes": ""
                 },
                 {
                     "title": "Dydd Nadolig",
                     "date": "27/12/2016",
-                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos",
-                    "bunting": true
+                    "notes": "Diwrnod yn lle gŵyl banc sy'n disgyn ar benwythnos"
                 }
             ]
         }

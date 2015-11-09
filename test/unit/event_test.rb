@@ -21,15 +21,13 @@ class EventTest < ActiveSupport::TestCase
       e = Calendar::Event.new(
         "title" => "bank_holidays.new_year",
         "date" => "02/01/2012",
-        "notes" => "common.substitute_day",
-        "bunting" => true
+        "notes" => "common.substitute_day"
       )
 
       expected = {
         "title" => "New Year’s Day",
         "date" => Date.civil(2012, 1, 2),
-        "notes" => "Substitute day",
-        "bunting" => true
+        "notes" => "Substitute day"
       }
 
       assert_equal expected, e.as_json

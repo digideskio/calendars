@@ -177,29 +177,6 @@ class GwyliauBancTest < ActionDispatch::IntegrationTest
     end # Timecop
   end
 
-  context "showing bunting on bank holidays" do
-    should "show bunting when today is a buntable bank holiday" do
-      Timecop.travel(Date.parse("2nd Jan 2012")) do
-        visit "/gwyliau-banc"
-        assert page.has_css?('.epic-bunting')
-      end
-    end
-
-    should "not show bunting if today is a non-buntable bank holiday" do
-      Timecop.travel(Date.parse("12th July 2013")) do
-        visit "/gwyliau-banc"
-        assert page.has_no_css?('.epic-bunting')
-      end
-    end
-
-    should "not show bunting when today is not a bank holiday" do
-      Timecop.travel(Date.parse("3rd Feb 2012")) do
-        visit "/gwyliau-banc"
-        assert page.has_no_css?('.epic-bunting')
-      end
-    end
-  end
-
   context "last updated" do
     should "be translated and localised" do
       Timecop.travel(Date.parse("25th Dec 2012")) do

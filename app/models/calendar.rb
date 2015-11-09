@@ -42,10 +42,6 @@ class Calendar
     divisions.map(&:events).flatten(1)
   end
 
-  def show_bunting?
-    divisions.any?(&:show_bunting?)
-  end
-
   def as_json(options = nil)
     divisions.each_with_object({}) do |division, hash|
       hash[I18n.t(division.slug)] = division.as_json

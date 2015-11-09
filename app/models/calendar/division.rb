@@ -45,10 +45,6 @@ class Calendar
       end
     end
 
-    def show_bunting?
-      upcoming_event and upcoming_event.date.today? and upcoming_event.bunting
-    end
-
     def as_json(options = {})
       {
         "division" => I18n.t(@slug),

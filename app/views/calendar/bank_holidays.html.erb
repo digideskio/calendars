@@ -1,9 +1,5 @@
 <%= render :partial => "calendar_head" %>
 
-<% if @calendar.show_bunting? %>
-  <div class="epic-bunting"><span></span></div>
-<% end %>
-
 <main id="content" role="main" class="group">
   <header class="page-header group">
     <div>
@@ -74,5 +70,3 @@ $(function() {
 });
 //]]>
 </script>
-
-<% content_for :wrapper_class do %><% if @calendar.show_bunting? -%>bunted<% end %><% end %>
